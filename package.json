@@ -10,7 +10,7 @@
   "scripts": {
     "build": "webpack",
     "install-modules": "yarn",
-	"postinstall": "npm run build"
+    "postinstall": "npm run build"
   },
   "keywords": [
     "summernote",
